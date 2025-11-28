@@ -8,7 +8,8 @@ An application of Evidential Physics-Informed Neural Networks (E-PINN) to Bergma
 This repository includes:
 
 - **bergman_epinn.ipynb** - a notebook that guides the application of E-PINN to glucose-insulin dataset of
-  [Kartono et al.](https://iopscience.iop.org/article/10.1088/1757-899X/532/1/012016/meta) based on Bergman model of glucose-insulin    dynamics. 
+  [Kartono et al.](https://iopscience.iop.org/article/10.1088/1757-899X/532/1/012016/meta) based on Bergman model of glucose-insulin    dynamics. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HaiSiong-Tan/E-PINN-Bergman/blob/main/EPINN_bergman/bergman_epinn.ipynb)
+
 
 - **models** - some pretrained models and related objects for reference.
 - **src** - Python source code containing utility functions.
