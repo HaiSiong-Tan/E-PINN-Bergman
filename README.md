@@ -20,7 +20,7 @@ This repository includes:
 #### 🚀 Getting Started
 
  - **Opening in Google Colab** -
-simply upload the notebooks and the 'models' folder to Colab and run them as-is.
+simply upload the notebook and the folders to Colab and run them as-is.
  - **Running Locally** -
 if you prefer running locally, install the required packages:
 
